@@ -52,6 +52,17 @@ The following steps are to help setting up a basic yet end-to-end flow for deplo
 
      <img src="images/Applications.png" alt="Applications" style="width:60%;">
 
+26. Rebuild and redeploy for any code change
+
+    Perform a git checkin for any code changes
+
+    Click Rerun build
+
+     <img src="images/RerunBuild.png" alt="Rerun Build" style="width:60%;">
+
+    Click Run Build and Reploy
+
+     <img src="images/ReDeploy.png" alt="Re-Deploy" style="width:60%;">
 
 
 ### How to create a repository in dockerhub
