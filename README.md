@@ -1,4 +1,6 @@
 # How-to-deploy-in-IBM-CodeEngine
+The following steps are to help setting up a basic yet end-to-end flow for deploying code in IBM Code Engine.  
+
 
 ### Deploy an application on IBM Code Engine 
 
